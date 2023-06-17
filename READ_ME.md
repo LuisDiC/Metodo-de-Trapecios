@@ -8,7 +8,6 @@
 
 ***
 
-
  ## Intrucciones para ejecutar la aplicación
 
 
@@ -25,6 +24,11 @@
 
 ***
 
+## Licencia 
+
+- Licencia BSD
+
+***
 Creditos:
 - 22110342 Luis Diego Carrillo Coss y Leon.
 - 22110387 Pedro Booz Salazar Ledezma.
