@@ -7,6 +7,9 @@
 
 
 ***
+# Dependencias
+*Usamos la libreria Rainbow.h, créditosa quién corresponda en el siguiente enlace"
+- https://github.com/mdk97/Rainbow
 
  ## Intrucciones para ejecutar la aplicación
 
@@ -26,10 +29,14 @@
 
 ## Licencia 
 
-- Licencia BSD
+- GNU General Public License v2.0
 
 ***
-Creditos:
-- 22110342 Luis Diego Carrillo Coss y Leon.
+## Desarrolladores
+
+- 22110342 Luis Diego Carrillo Coss y León.
 - 22110387 Pedro Booz Salazar Ledezma.
+
+## Donaciones
+*Si este proyecto te funcionó, puedes ayudarnos donando por paypal a @mfv2, gracias de antemano!!*
 
