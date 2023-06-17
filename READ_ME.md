@@ -19,7 +19,11 @@
   - *Para  ejecutar y compilar el programa también puedes usar el makefile usando el cmd, solamente ubicamos la carpeta MetodoTrapecios.*
 > make run 
 
+*** 
 
+*Para mejor información del funcionamiento del programa, vease la carpeta docs, donde se explica de una forma mas extensa, tanto para el usuario como el desarrollador.*
+
+***
 
 Creditos:
 - 22110342 Luis Diego Carrillo Coss y Leon.
