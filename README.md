@@ -8,7 +8,7 @@
 
 ***
 # Dependencias
-*Usamos la libreria Rainbow.h, créditosa quién corresponda en el siguiente enlace"
+*Usamos la libreria Rainbow.h, créditos a quién corresponda en el siguiente enlace"
 - https://github.com/mdk97/Rainbow
 
  ## Intrucciones para ejecutar la aplicación
